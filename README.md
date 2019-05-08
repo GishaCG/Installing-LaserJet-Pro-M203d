@@ -1,6 +1,7 @@
-# Installing-LaserJet-Pro-M203d
-How to hnstall LaserJet Pro M203d
-1. Copy hplip-3.17.14.run to  Downloads
+# Installing-LaserJet-Pro-M203d to Linux
+How to install LaserJet Pro M203d in Linux OS. hplip-3.17.14.run also uploaded for downliading
+
+1. Copy/Download hplip-3.17.14.run to  Downloads
 
 2. Open terminal (Ctrl+Alt+T) and run: 
 
